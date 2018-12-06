@@ -1,0 +1,24 @@
+{
+  "name": "lab-1_utility_server",
+  "version": "1.0.0",
+  "description": "## Task - You will create an Express server that takes in different routes to do random but COOL things! - Each of the routes are unique and takes in query parameters through GET requests - Each of the individual functionalities should be seperated into modules that you will build - Your routes should test for invalid inputs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Godsby/Lab-1_Utility_Server.git"
+  },
+  "author": "Leo Lu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Godsby/Lab-1_Utility_Server/issues"
+  },
+  "homepage": "https://github.com/Godsby/Lab-1_Utility_Server#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
+}
